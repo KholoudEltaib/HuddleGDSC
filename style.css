@@ -4,6 +4,7 @@
     margin: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
 }
 .tophead{
   background-image: url('bg-hero-desktop.svg');
@@ -81,7 +82,7 @@ background-color: rgba(240, 248, 255, 0.37);
 .info-caption h1 {
     font-weight: 600;
     color:  hsl(192, 100%, 9%);
-    font-size: 72px;
+    font-size: 48px;
     padding: 20px 0;
   }
 .info-caption p {
